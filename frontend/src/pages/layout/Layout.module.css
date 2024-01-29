@@ -5,7 +5,7 @@
 }
 
 .header {
-    background-color: #f2f2f2;
+    background-color: #ffffff;
 }
 
 .headerContainer {
@@ -14,26 +14,34 @@
     align-items: center;
 }
 
+@font-face {
+    font-family: 'Free_Agent';
+    src: url('../../../../fonts/free_agent_font/freeagent.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 .headerTitleContainer {
     display: flex;
     align-items: center;
-    margin-left: 14px;
+    margin-left: 30px;
     text-decoration: none;
 }
 
 .headerTitle {
+    font-family: 'Free_Agent';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 28px;
     display: flex;
     align-items: flex-end;
-    color: #242424;
+    color: #343537;
 }
 
 .headerIcon {
-    height: 32px;
-    width: 32px;
+    height: 100px;
+    width: 100px;
     margin-left: 36px;
 }
 
@@ -46,7 +54,7 @@
     gap: 4px;
     width: 86px;
     height: 32px;
-    background: radial-gradient(109.81% 107.82% at 100.1% 90.19%, #0F6CBD 33.63%, #2D87C3 70.31%, #8DDDD8 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+    background: radial-gradient(109.81% 107.82% at 100.1% 90.19%, #87070C 33.63%, #ED1B24 70.31%, #e6797e 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
     border-radius: 4px;
     flex: none;
     order: 1;

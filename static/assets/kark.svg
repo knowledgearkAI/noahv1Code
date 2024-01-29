@@ -1,0 +1,26 @@
+<svg
+   version="1.1"
+   id="svg1"
+   width="374"
+   height="373"
+   viewBox="0 0 374 373"
+   sodipodi:docname="OIP (1).svg"
+   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+   
+   <!-- Define a rectangle to act as a placeholder for the external image -->
+   <rect x="0" y="0" width="374" height="373" fill="none" />
+
+   <!-- Include the external image using an <image> element -->
+   <image
+      x="0"
+      y="0"
+      width="374"
+      height="373"
+      xlink:href="https://static.wixstatic.com/media/9250a2_2fff371896f74abdb2e8179cdd4cd1b3~mv2.png/v1/crop/x_0,y_0,w_1024,h_1098/fill/w_367,h_393,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/SAIG%20KnowledgeArk%20TM%20LOGO.png"  <!-- Replace with your image URL -->
+   />
+
+</svg>
